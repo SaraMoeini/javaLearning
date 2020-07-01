@@ -1,4 +1,12 @@
-
+/**
+ * 
+ * @author sara
+ * the ability to add a new branch
+ * and to add a customer to that branch with initial transaction amount 
+ * also to add transactions for an existing customer for that branch
+ * finally to show a list of customers for the particular branch and optionally 
+ * display a list of the transactions for those customers.
+ */
 public class Main {
 
 	public static void main(String[] args) {
